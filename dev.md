@@ -5,3 +5,6 @@ cd /home/forge/default
 tail -f ./storage/logs/laravel-2019-06-2
 
 C:\Windows\System32\drivers\etc
+
+
+sudo yarn install --no-bin-links
